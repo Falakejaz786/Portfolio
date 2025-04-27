@@ -1,0 +1,122 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Base */
+  body {
+    background: #121212;
+    color: #f1f1f1;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Layout */
+  .container {
+    display: flex;
+    min-height: 100vh;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    background: #1f1f1f;
+    width: 280px;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .avatar img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .contact-info p {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+  }
+  
+  /* Main Content */
+  .main-content {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    border-left: 5px solid rebeccapurple;
+    padding-left: 0.75rem;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .navbar a {
+    color: purple;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+  }
+  
+  .navbar a.active,
+  .navbar a:hover {
+    color: rebeccapurple;
+  }
+  
+  /* Projects Section */
+  .projects h2 {
+    font-size: 1.8rem;
+    margin: 1.5rem 0 1rem;
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+  }
+  
+  /* Project Cards */
+  .project-box {
+    background: #1f1f1f;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .project-box h3 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .project-box p {
+    margin-bottom: 1rem;
+    color: #ccc;
+    line-height: 1.5;
+  }
+  
+  /* Links */
+  a {
+    color: rgb(146, 2, 249);           
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  
+  a:visited {
+    color: rgb(177, 100, 233);
+  }
+  
+  
+  a:hover,
+  a:focus {
+    color: rgb(177, 100, 233);    
+    text-decoration: underline;
+  }
+  
