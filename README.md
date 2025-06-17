@@ -1,11 +1,11 @@
-🌐 Falak Ejaz — Portfolio Website
+# 🌐 Falak Ejaz — Portfolio Website
 
 Welcome to my personal portfolio website!
 Built using **HTML, CSS, and JavaScript**, this site showcases my journey, skills, and projects as a Computer Science Engineering student passionate about **Machine Learning** and **Data Structures & Algorithms**.
 
 ---
 
-👋 About Me
+## 👋 About Me
 
 **Hey! I'm Falak Ejaz**, a B.Tech Computer Science Engineering student at **Kalinga Institute of Industrial Technology**, with a deep interest in:
 
@@ -28,19 +28,21 @@ I'm actively working toward becoming a **future-ready ML Engineer**, building in
 
 ## 🛠️ Tech Stack
 
-Computer languages| Python, C++, C, Java, Next.js, Tailwind, Node.js & Express, Html, CSS, JavaScript
-Software Packages| TensorFlow, PyTorch, Keras, Transformers, Pandas, NumPy, Matplotlib, Rembg, PIL, Ipywidgets, Requests 
-Other skills| Proficient in SQL and Ubuntu, Experienced with Figma for UI/UX design
----
+| Category                 | Tools & Technologies                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Languages**            | Python, C++, C, Java, Next.js, Tailwind, Node.js & Express, HTML, CSS, JavaScript                     |
+| **Libraries & Packages** | TensorFlow, PyTorch, Keras, Transformers, Pandas, NumPy, Matplotlib, Rembg, PIL, ipywidgets, Requests |
+| **Other Skills**         | Proficient in SQL and Ubuntu, Experienced with Figma for UI/UX design                                 |
 
+---
 
 ## 📸 Features
 
-* Responsive design (mobile-friendly)
-* Smooth scrolling and clean animations
-* Projects and skill showcase
-* Contact section and personal info
-* Modular and easy to extend
+* ✅ Responsive design (mobile-friendly)
+* ✅ Smooth scrolling and clean animations
+* ✅ Projects and skill showcase
+* ✅ Contact section and personal info
+* ✅ Modular and easy to extend
 
 ---
 
@@ -48,15 +50,9 @@ Other skills| Proficient in SQL and Ubuntu, Experienced with Figma for UI/UX des
 
 * Add a blog section or recent updates
 * Dark mode toggle
-* Integrate backend form handling (e.g., with Firebase or EmailJS)
+* Integrate backend form handling (e.g., Firebase, EmailJS)
 * Host on GitHub Pages or Vercel
 
----
 
-## 📬 Let's Connect
-
-If you'd like to connect, collaborate, or just say hi — feel free to reach out via [LinkedIn](#) or check out my [GitHub profile](#).
-
----
 
 
